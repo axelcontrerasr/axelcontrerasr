@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Desarrollador en formación con background en Administración de Empresas y experiencia profesional como Barista. Graduado del bootcamp de 4Geeks Academy y estudiante de Programación y Sistemas Informáticos en Grup CIEF. Interesado en desarrollo web, buenas prácticas, automatización y creación de herramientas útiles.
 <!--
 **axelcontrerasr/axelcontrerasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
